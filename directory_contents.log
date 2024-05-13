@@ -1,0 +1,3 @@
+FileInfo(name='Мои видеозаписи', extension=None, is_directory=True, parent_directory='Documents')
+FileInfo(name='мои рисунки', extension=None, is_directory=True, parent_directory='Documents')
+FileInfo(name='Моя музыка', extension=None, is_directory=True, parent_directory='Documents')
